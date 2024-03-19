@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This module contains a procedure that calculates the fewest number of operations
+This module contains a method that calculates the fewest number of operations
 needed to result in exactly n H characters in the file.
 Prototype: `minOperations(n)`
 Returns: integer
@@ -12,7 +12,7 @@ def minOperations(n):
     """
     In a text file, there is a single character H.
     Your text editor can execute only two operations in this file:
-    Copy All and Paste. write a method that calculates
+    Copy All and Paste. Given a number n, write a method that calculates
     the fewest number of operations needed to result in exactly n H characters
     in the file
     """
