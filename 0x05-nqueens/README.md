@@ -1,3 +1,1 @@
-# Alx interview tasks
-
-0-nqueens
+# 0x05-nqueens
